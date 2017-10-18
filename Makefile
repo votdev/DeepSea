@@ -576,3 +576,6 @@ tarball:
 
 test:
 	tox -e py27
+
+lint:
+	tox -e lint
